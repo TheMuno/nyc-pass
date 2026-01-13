@@ -159,7 +159,7 @@ button {
 
 .card-cta {
     font-size: 0.875rem;
-    color: #4f46e5;
+    color: #FF4500;
     font-weight: 600;
 }
 
@@ -190,7 +190,7 @@ button {
 
 .progress-fill {
     height: 100%;
-    background: #4f46e5;
+    background: #FF4500;
     transition: width 0.3s ease;
 }
 
@@ -213,7 +213,7 @@ button {
 }
 
 .option-card:hover {
-    border-color: #4f46e5;
+    border-color: #FF4500;
     background: #eef2ff;
 }
 
@@ -253,7 +253,7 @@ button {
 }
 
 .interest-card.selected {
-    border-color: #4f46e5;
+    border-color: #FF4500;
     background: #eef2ff;
 }
 
@@ -276,7 +276,7 @@ button {
 }
 
 .checkmark {
-    color: #4f46e5;
+    color: #FF4500;
     font-size: 1.25rem;
 }
 
@@ -300,7 +300,7 @@ button {
 }
 
 .budget-card:hover {
-    border-color: #4f46e5;
+    border-color: #FF4500;
     background: #eef2ff;
 }
 
@@ -377,7 +377,7 @@ button {
 }
 
 .attraction-card.selected {
-    background: #4f46e5;
+    background: #FF4500;
     color: white;
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
@@ -408,7 +408,7 @@ button {
 .selected-badge {
     display: inline-block;
     background: white;
-    color: #4f46e5;
+    color: #FF4500;
     padding: 0.25rem 0.75rem;
     border-radius: 9999px;
     font-size: 0.875rem;
@@ -420,7 +420,7 @@ button {
 .btn-primary {
     width: 100%;
     padding: 1rem;
-    background: #4f46e5;
+    background: #FF4500;
     color: white;
     border-radius: 0.75rem;
     font-weight: 600;
@@ -438,7 +438,7 @@ button {
 
 .btn-large {
     padding: 1rem 3rem;
-    background: #4f46e5;
+    background: #FF4500;
     color: white;
     border-radius: 0.75rem;
     font-weight: bold;
@@ -453,7 +453,7 @@ button {
 }
 
 .link-button {
-    color: #4f46e5;
+    color: #FF4500;
     font-size: 0.875rem;
     text-decoration: none;
     font-weight: 600;
@@ -501,7 +501,7 @@ button {
 }
 
 .pass-savings {
-    color: #4f46e5;
+    color: #FF4500;
     font-weight: 600;
 }
 
@@ -512,7 +512,7 @@ button {
 .price-amount {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #4f46e5;
+    color: #FF4500;
 }
 
 .price-label {
@@ -615,7 +615,7 @@ button {
 
 /* CTA Card */
 .cta-card {
-    background: linear-gradient(to right, #4f46e5, #7c3aed);
+    background: linear-gradient(to right, #FF4500, #7c3aed);
     border-radius: 1rem;
     padding: 2rem;
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
@@ -638,7 +638,7 @@ button {
 .btn-cta {
     padding: 1rem 2rem;
     background: white;
-    color: #4f46e5;
+    color: #FF4500;
     border-radius: 0.75rem;
     font-weight: bold;
     font-size: 1.125rem;
