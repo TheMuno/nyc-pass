@@ -428,7 +428,7 @@ button {
 }
 
 .btn-primary:hover:not(:disabled) {
-    background:  rgba(255, 69, 0, 0.7); /*#4338ca;*/
+    background:  rgba(255, 69, 0, 0.8); /*#4338ca;*/
 }
 
 .btn-primary:disabled {
@@ -448,7 +448,7 @@ button {
 }
 
 .btn-large:hover {
-    background: rgba(255, 69, 0, 0.7); /*#4338ca;*/
+    background: rgba(255, 69, 0, 0.8); /*#4338ca;*/
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
 }
 
